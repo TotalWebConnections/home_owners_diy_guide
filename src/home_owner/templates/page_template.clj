@@ -3,7 +3,8 @@
             [home-owner.partials.Header :refer [Header]]
             [home-owner.partials.Nav :refer [Nav]]
             [home-owner.partials.Title :refer [Title]]
-            [home-owner.partials.Sidebar :refer [Sidebar]]))
+            [home-owner.partials.Sidebar :refer [Sidebar]]
+            [home-owner.partials.Footer :refer [Footer]]))
 
 
 (defn page-template [request page]
@@ -13,6 +14,8 @@
      [:body
       (Nav)
       (Title)
-      [:div.body (:page page-struct)]
-      (Sidebar)
-      [:script {:src "https://kit.fontawesome.com/a85405c6c9.js" :crossorigin "anonymous"}]])))
+      [:div.Container
+       [:div.body (:page page-struct)]
+       (Sidebar)]
+      (Footer)])))
+
