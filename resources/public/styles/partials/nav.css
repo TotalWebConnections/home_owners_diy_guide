@@ -1,0 +1,33 @@
+.Nav {
+  background-color: var(--main-color);
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 10px;
+}
+
+.Nav ul {
+  list-style: none;
+}
+
+.Nav ul li {
+  display: inline-block;
+}
+
+.Nav ul li a {
+  padding: 12px;
+  text-decoration: none;
+}
+
+
+
+@media(max-width: 767px) {
+  .Nav {
+    display: block;
+    text-align: center;
+  }
+
+  .Nav ul {
+    margin: 0 auto;
+    padding: 5px 0;
+  }
+}
