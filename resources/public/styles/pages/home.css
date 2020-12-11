@@ -12,3 +12,20 @@
   text-align: center;
   padding: 10px;
 }
+
+.Home-post {
+  width: 50%;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.Home-post-text {
+  background: var(--main-color);
+}
+
+
+@media(max-width: 767px) {
+  .Home-post {
+    width: 100%;
+  }
+}

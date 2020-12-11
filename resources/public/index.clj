@@ -7,4 +7,26 @@
          [:div.Home.primary-image-text
           [:h2 "Post Title"]
           [:p  "content"]]]
-        [:p "this is your home page"]]
+        [:div.Home-post-wrapper
+         [:h3 "Recent Posts"]
+         [:div.row
+          [:div.Home-post
+           [:img {:width "100%" :src "/images/coming_soon.jpg"}]
+           [:div.Home-post-text
+            [:h2 "Post Title"]
+            [:p  "content"]]]
+          [:div.Home-post
+           [:img {:width "100%" :src "/images/coming_soon.jpg"}]
+           [:div.Home-post-text
+            [:h2 "Post Title"]
+            [:p  "content"]]]
+          [:div.Home-post
+           [:img {:width "100%" :src "/images/coming_soon.jpg"}]
+           [:div.Home-post-text
+            [:h2 "Post Title"]
+            [:p  "content"]]]
+          [:div.Home-post
+           [:img {:width "100%" :src "/images/coming_soon.jpg"}]
+           [:div.Home-post-text
+            [:h2 "Post Title"]
+            [:p  "content"]]]]]]
