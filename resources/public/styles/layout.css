@@ -17,3 +17,17 @@
   border: 1px solid black;
   margin: 0 10px;
 }
+
+@media(max-width: 767px) {
+  .Container .body, .Container .Sidebar {
+    width: 100%;
+  }
+
+  .Container .Sidebar {
+    margin-top: 25px;
+  }
+
+  .Container {
+    flex-wrap: wrap;
+  }
+}

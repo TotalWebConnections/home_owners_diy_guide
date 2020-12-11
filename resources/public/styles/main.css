@@ -4,6 +4,8 @@
 @import 'partials/nav.css';
 @import 'partials/title.css';
 
+@import 'pages/home.css';
+
 body {
     font: 16px Helvetica, arial, freesans, clean, sans-serif;
     line-height: 1.5;
