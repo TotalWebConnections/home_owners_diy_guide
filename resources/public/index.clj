@@ -2,6 +2,7 @@
          :title "Index"
          :meta-desc "Indx Page"}
 :page [:div.Page.Home
+        [:h1 "!!+Do-Math+!!"]
         [:div.Home-primary-image-wrapper
          [:img {:width "100%" :src "/images/coming_soon.jpg"}]
          [:div.Home.primary-image-text

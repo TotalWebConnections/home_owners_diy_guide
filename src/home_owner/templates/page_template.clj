@@ -6,9 +6,11 @@
             [home-owner.partials.Sidebar :refer [Sidebar]]
             [home-owner.partials.Footer :refer [Footer]]))
 
+(defn do-math []
+  (str (+ 2 2)))
 
 (defn page-template [request page]
-  (let [page-struct (clojure.edn/read-string (str "{" page "}"))]
+  (let [page-struct (clojure.edn/read-string (str "{" (clojure.string/replace page "!!+Do-Math+!!" (do-math)) "}"))]
     (html5
      (Header request (:header page-struct))
      [:body
