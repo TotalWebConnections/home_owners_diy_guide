@@ -1,0 +1,39 @@
+.Footer {
+  background-color: var(--main-color);
+  padding: 75px 35px 15px;
+}
+
+.Footer__inner {
+  display: flex;
+  justify-content: space-between;
+}
+
+.Footer ul {
+  list-style: none;
+}
+
+.Footer ul li {
+  display: inline-block;
+}
+
+.Footer ul li a {
+  padding: 12px;
+  text-decoration: none;
+}
+
+.Footer__copyright {
+  text-align: center;
+  font-size: .75rem;
+}
+
+@media(max-width: 767px) {
+  .Footer__inner {
+    display: block;
+    text-align: center;
+  }
+
+  .Footer ul {
+    margin: 0 auto;
+    padding: 5px 0;
+  }
+}
