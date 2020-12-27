@@ -3,5 +3,6 @@
          :meta-desc "A base hello World Page"}
 
 :page [:div.Post
-        [:h1 "Hello World"]
         [:p "Start writing your blog here!"]]
+
+:primary-image "coming_soon.jpg"

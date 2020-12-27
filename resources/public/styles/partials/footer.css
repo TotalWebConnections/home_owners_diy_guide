@@ -1,6 +1,7 @@
 .Footer {
   background-color: var(--main-color);
   padding: 75px 35px 15px;
+  margin-top: 25px;
 }
 
 .Footer__inner {
