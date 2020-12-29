@@ -1,6 +1,18 @@
 :root {
-  --main-color: #06D6A0;
+  --main-color: #d41e33;
+  --background-color: #363636;
 }
+
+a {
+  color: white;
+  transition: all .25s;
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--main-color);
+}
+
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: bold; }

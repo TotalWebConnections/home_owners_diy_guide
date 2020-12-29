@@ -8,8 +8,10 @@
 @import 'pages/home.css';
 @import 'pages/posts.css';
 
+
 body {
-    font: 16px Helvetica, arial, freesans, clean, sans-serif;
+    font-size: 16px;
+    font-family: 'Oswald', sans-serif;
     line-height: 1.5;
     /* background: #eee; */
 }

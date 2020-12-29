@@ -8,7 +8,7 @@
           [:h2 "Post Title"]
           [:p  "content"]]]
         [:div.Home-post-wrapper
-         [:h3 "Recent Posts"]
+         [:h2.recentPostsTitle "Recent Posts"]
          [:div.row
           [:div.Home-post
            [:a {:href "lawn-care-guide"}

@@ -5,8 +5,8 @@
   [:div.Nav
    [:div.Nav__links
     [:ul
-      [:li [:a {:href "#"} "Home"]]
-      [:li [:a {:href "#"} "About"]]
+      [:li [:a {:href "/"} "Home"]]
+      [:li [:a {:href "/about"} "About"]]
       [:li [:a {:href "#"} "Posts"]]]]
    [:div.Nav__social
     (Social)]])
