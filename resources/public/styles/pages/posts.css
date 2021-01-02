@@ -11,6 +11,10 @@
   margin-top: 1.25em;
 }
 
+.Post h3, .Post h4 {
+  margin-top: 1em;
+}
+
 .Post-container h1 {
   padding-bottom: 25px;
   border-bottom: 1px solid var(--main-color);
