@@ -36,6 +36,6 @@
       (Title)
       [:div.Container
        [:div.body (:page page-struct)]
-       (Sidebar)]
+       (evaluate-tree-nodes (Sidebar) handle-eval-tags)]
       (Footer)])))
 
