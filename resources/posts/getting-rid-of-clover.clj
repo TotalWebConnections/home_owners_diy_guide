@@ -37,4 +37,4 @@
 
         [:p "Overall, while unsightly clover is not a detrimental lawn problem it can certainly be unsightly and be difficult to contain. If you still want to remove it, hopefully the above tips have helped. Let us know if you’ve had clover problems in your lawn, and if you tried any of the above or if we missed your favorite clover removal technique."]]
 
-:primary-image "clover-yard.jpg"
+:primary-image "clover-yard"

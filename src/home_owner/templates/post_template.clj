@@ -1,11 +1,11 @@
 (ns home-owner.templates.post-template
   (:require [hiccup.page :refer [html5]]
+            [home-owner.config.parsers :refer [handle-eval-tags evaluate-tree-nodes generate-image]]
             [home-owner.partials.Header :refer [Header]]
             [home-owner.partials.Nav :refer [Nav]]
             [home-owner.partials.Title :refer [Title]]
             [home-owner.partials.Sidebar :refer [Sidebar]]
             [home-owner.partials.Footer :refer [Footer]]))
-
 
 (defn post-template [request page]
   (let [page-struct (clojure.edn/read-string (str "{" page "}"))]
@@ -16,9 +16,10 @@
       (Title)
       [:div.Container
        [:div.body
-        [:img {:width "100%" :src (str "/images/" (:primary-image page-struct))}]
+        (generate-image (:primary-image page-struct))
+        ; [:img {:width "100%" :src (str "/images/" (:primary-image page-struct))}]
         [:div.Post-container
          [:h1 (:title (:header page-struct))]
          (:page page-struct)]]
-       (Sidebar)]
+       (evaluate-tree-nodes (Sidebar) handle-eval-tags)]
       (Footer)])))

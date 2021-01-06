@@ -95,4 +95,4 @@
         [:h2 "Create an Improvement Budget"]
         [:p "Lastly, it’s important to start setting aside some money for all those projects you have in mind. Home improvement is expensive; you’ll thank yourself later if you start putting away money now to handle them. Do what works for you, whether that’s mentally setting aside money in a savings account, or opening a new account solely for your home improvement fund. This is also a good way to stay on budget as you have a set amount you’ve saved up."]]
 
-:primary-image "new_house.jpg"
+:primary-image "new_house"

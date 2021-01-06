@@ -40,4 +40,4 @@
        [:p "While the interior of your house is likely your first priority when selling your home, don’t neglect the exterior. Many buyers are looking for that elusive curb appeal when buying a new home, so make sure you make yours as appealing as possible. The great thing about many of the above is that most are very easy to complete over the weekend, and can be done cheaply or even for free. Focusing on these low investment improvements is a great way to help sell your home faster."]]
 
 
-:primary-image "landscaping-to-sell-your-home.jpg"
+:primary-image "landscaping-to-sell-your-home"

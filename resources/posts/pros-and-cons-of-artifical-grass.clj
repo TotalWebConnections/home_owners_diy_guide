@@ -53,4 +53,4 @@
        [:h2 "The Verdict"]
        [:p "Overall, artificial grass is a very personal choice, but has some compelling arguments for why you should consider it. It’s very friendly for the environment, as well as being cheaper to maintain than traditional grass, and those two reasons are very important for many homeowners. It’s also important to consider your location, the less kind the environment is to traditional grass the more value you’ll get from artificial turf."]]
 
-:primary-image "artificial-grass.jpg"
+:primary-image "artificial-grass"

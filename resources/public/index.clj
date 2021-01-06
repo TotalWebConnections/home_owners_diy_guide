@@ -14,25 +14,29 @@
            [:div.row
             [:div.Home-post
              [:a {:href "25-things-all-homeowners-should-do"}
-              [:img {:width "100%" :src "/images/new_house.jpg"}]
+              [:eval
+                :get-image "new-house"]
               [:div.Home-post-text
                [:h2 "25 Things All Homeowners Should Be Doing"]
                [:p  "Easy steps to maintain your home."]]]]
             [:div.Home-post
              [:a {:href "getting-rid-of-clover"}
-              [:img {:width "100%" :src "/images/clover-yard.jpg"}]
+              [:eval
+                :get-image "clover-yard"]
               [:div.Home-post-text
                [:h2 "How To Get Rid Of Clover in Your Yard"]
                [:p  "Quick methods to remove unsighly clover."]]]]
             [:div.Home-post
              [:a {:href "how-often-should-i-service-my-furnace"}
-              [:img {:width "100%" :src "/images/furnace-technician.jpg"}]
+              [:eval
+                :get-image "furnace-technician"]
               [:div.Home-post-text
                [:h2 "How Often Should I Service my Furnace"]
                [:p  "Keep your furnace running correctly."]]]]
             [:div.Home-post
              [:a {:href "pros-and-cons-of-artifical-grass"}
-              [:img {:width "100%" :src "/images/artificial-grass.jpg"}]
+              [:eval
+                :get-image "artificial-grass"]
               [:div.Home-post-text
                [:h2 "Pros and Cons of Artifical Grass"]
                [:p  "Learn why you might want to consider artifical grass for your yard."]]]]]]]}

@@ -26,4 +26,4 @@
         [:p "Overall, making sure to get a furnace inspection at least once a year is important to keeping your furnace in overall working condition. It’s also important to the safety of the people in your home, so it’s very important not to put this off. If it’s been some time since your last service make it a point to get someone out soon to give you and your family peace of mind."]]
 
 
-:primary-image "furnace-technician.jpg"
+:primary-image "furnace-technician"
