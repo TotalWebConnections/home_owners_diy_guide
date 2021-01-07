@@ -1,8 +1,8 @@
 :header {
          :title "25 Things All Homeowners Should Do"
          :meta-desc "A base hello World Page"
-         :published "2014-04-29T14:08:40+01:00"
-         :last-updated "December 23, 2020"}
+         :published "2021-01-01T14:08:40+01:00"
+         :last-updated "January 1, 2021"}
 
 :page [:div.Post
         [:p "Purchasing a new home is a big step in anyone’s life, and there are a lot of things to keep in mind even after the sale is complete. There are endless potential issues with any home, many of which can be very costly if not remedied. In this article, we’ll look at 25 things every homeowner should do. Whether you’ve just bought your home, or owned it for years, these items are important to check off your to-do list."]

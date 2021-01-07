@@ -1,8 +1,8 @@
 :header {
          :title "Pros and Cons Of Artifical Grass"
          :meta-desc "A base hello World Page"
-         :published "2014-04-29T14:08:40+01:00"
-         :last-updated "December 22, 2020"}
+         :published "2021-01-05T14:08:40+01:00"
+         :last-updated "January 5, 2021"}
 
 :page [:div.Post
        [:p "With advancements in technology and environmental consciousness artificial grass has become a very attractive option. Many homeowners are choosing to substitute some or all of their green space with artificial grass. That said, there are many others who dislike the artificial grass trend and would never dream of replacing their lawn with “fake grass”. Today, we’ll look at both options, and compare which will fit best for you."]

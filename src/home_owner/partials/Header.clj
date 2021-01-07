@@ -13,6 +13,6 @@
              :content (:published header)}])
    [:title (:title header)]
    [:link {:rel "preconnect" :href "https://fonts.gstatic.com"}]
-   [:link {:rel "stylesheet" :href "https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&display=swap"}]
-   [:link {:rel "stylesheet" :href "https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap"}]
+   [:link {:rel "stylesheet" :media "print" :onload "this.onload=null;this.removeAttribute('media');" :href "https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600&display=swap"}]
+   [:link {:rel "stylesheet" :media "print" :onload "this.onload=null;this.removeAttribute('media');" :href "https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap"}]
    [:link {:rel "stylesheet" :href (link/file-path request "/styles/main.css")}]])
