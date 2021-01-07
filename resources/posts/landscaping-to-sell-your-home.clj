@@ -1,6 +1,8 @@
 :header {
          :title "Landscaping To Sell Your Home"
-         :meta-desc "A base hello World Page"}
+         :meta-desc "A base hello World Page"
+         :published "2014-04-29T14:08:40+01:00"
+         :last-updated "December 25, 2020"}
 
 :page [:div.Post
        [:p "When it comes time to sell your home there are a lot of things to do that can make it more appealing to potential buyers. Everything from fresh paint to new appliances can help, but what many sellers neglect is the outward appearance of the home. The truth is there are numerous outdoor things you can do to help sell your home quicker. Today, we’ll look at some landscaping projects you can do to help sell your home quicker."]

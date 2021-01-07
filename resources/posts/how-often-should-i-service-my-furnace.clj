@@ -1,6 +1,8 @@
 :header {
          :title "How Often Should I Sericve My Furnace?"
-         :meta-desc "A base hello World Page"}
+         :meta-desc "A base hello World Page"
+         :published "2014-04-29T14:08:40+01:00"
+         :last-updated "December 22, 2020"}
 
 :page [:div.Post
         [:p "The furnace is one of the most critical parts of a home, and one that every homeowner dreads breaking down. Nothing is worse than a furnace not working in the dead of winter, which if not fixed quickly can lead to other serious problems like frozen pipes. Unfortunately, as many homeowners have found out, an emergency furnace fix is not cheap, and with no other options it can be a huge financial burden."]

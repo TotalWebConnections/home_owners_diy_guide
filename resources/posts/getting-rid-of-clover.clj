@@ -1,6 +1,8 @@
 :header {
          :title "Getting Rid Of Clover In Your Yard"
-         :meta-desc "A base hello World Page"}
+         :meta-desc "A base hello World Page"
+         :published "2014-04-29T14:08:40+01:00"
+         :last-updated "December 22, 2020"}
 
 :page [:div.Post
         [:p "One of the most common and annoying lawn weeds is the clover. These little weeds can spring up quickly and be very unsightly for your lawn. If you’ve dealt with them before, you’ll understand just how difficult it can be to truly get rid of them; they almost seem to spring up overnight. Let’s take a look at this pesky weed, and what can be done to get rid of them and prevent them from coming back. "]

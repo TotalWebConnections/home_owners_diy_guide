@@ -20,6 +20,7 @@
         ; [:img {:width "100%" :src (str "/images/" (:primary-image page-struct))}]
         [:div.Post-container
          [:h1 (:title (:header page-struct))]
-         (:page page-struct)]]
+         (:page page-struct)
+         [:div#last-update (str "Last Updated on " (:last-updated (:header page-struct)))]]]
        (evaluate-tree-nodes (Sidebar) handle-eval-tags)]
       (Footer)])))
