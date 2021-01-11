@@ -47,6 +47,10 @@
   padding: 10px 5px;
 }
 
+.Home-post-text h2 {
+  margin-top: .25em !important;
+}
+
 
 @media(max-width: 767px) {
   .Home-post {

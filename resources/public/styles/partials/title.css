@@ -1,6 +1,8 @@
 .Title {
   text-align: center;
   padding: 50px 0;
-  background: #ffdbde;
+  /* background: #ffdbde; */
+  background: : var(--background-color);
+  color: white;
   margin-bottom: 50px;
 }
