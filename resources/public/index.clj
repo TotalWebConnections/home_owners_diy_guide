@@ -8,7 +8,7 @@
               :get-image "landscaping-to-sell-your-home"]
             [:div.Home.primary-image-text
              [:h2 "Landscaping To Sell Your Home"]
-             [:p  "Make your home appeal from the outside."]]]]
+             [:p  "Add some curb appeal to your home"]]]]
           [:div.Home-post-wrapper
            [:h2.recentPostsTitle "Recent Posts"]
            [:div.row
@@ -32,7 +32,7 @@
                 :get-image "furnace-technician"]
               [:div.Home-post-text
                [:h2 "How Often Should I Service my Furnace"]
-               [:p  "Keep your furnace running correctly."]]]]
+               [:p  "Keep your furnace running efficiently year round."]]]]
             [:div.Home-post
              [:a {:href "pros-and-cons-of-artifical-grass"}
               [:eval

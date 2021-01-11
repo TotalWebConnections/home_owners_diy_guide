@@ -15,19 +15,16 @@
        [:eval
          :get-image "landscaping-to-sell-your-home"]]
       [:div.content
-       [:a.dark {:href "#"}[:h4 "Title"]]
-       [:p "Some stuff here about it"]]]
+       [:a.dark {:href "landscaping-to-sell-your-home"}[:h4 "Landscaping To Sell Your Home"]]]]
      [:div.topPostWrapper
       [:div.image
        [:eval
-         :get-image "landscaping-to-sell-your-home"]]
+         :get-image "new-house"]]
       [:div.content
-       [:a.dark {:href "#"}[:h4 "Title"]]
-       [:p "Some stuff here about it"]]]
+       [:a.dark {:href "25-things-all-homeowners-should-do"}[:h4 "25 Things All Homeowners Should Be Doing"]]]]
      [:div.topPostWrapper
       [:div.image
        [:eval
-         :get-image "landscaping-to-sell-your-home"]]
+         :get-image "clover-yard"]]
       [:div.content
-       [:a.dark {:href "#"}[:h4 "Title"]]
-       [:p "Some stuff here about it"]]]]])
+       [:a.dark {:href "getting-rid-of-clover"}[:h4 "How To Get Rid Of Clover in Your Yard"]]]]]])
