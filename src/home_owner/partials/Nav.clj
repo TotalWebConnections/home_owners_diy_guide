@@ -7,6 +7,6 @@
     [:ul
       [:li [:a {:href "/"} "Home"]]
       [:li [:a {:href "/about"} "About"]]
-      [:li [:a {:href "#"} "Posts"]]]]
+      [:li [:a {:href "/posts"} "Posts"]]]]
    [:div.Nav__social
     (Social)]])
