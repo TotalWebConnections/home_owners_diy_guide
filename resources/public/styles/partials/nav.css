@@ -1,5 +1,5 @@
 .Nav {
-  background-color: var(--main-color);
+  background-color: var(--nav-color);
   display: flex;
   justify-content: space-between;
   padding: 15px 10px;
@@ -16,7 +16,12 @@
 .Nav ul li a {
   padding: 12px;
   text-decoration: none;
-  color: white;
+  color: black;
+  transition: all .5s;
+}
+
+.Nav ul li a:hover {
+  color: var(--main-color);
 }
 
 
