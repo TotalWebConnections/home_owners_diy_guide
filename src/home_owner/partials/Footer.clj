@@ -11,7 +11,8 @@
         [:li [:a {:href "/"} "Home"]]
         [:li [:a {:href "/about"} "About"]]
         [:li [:a {:href "/posts"} "Posts"]]
-        [:li [:a {:href "/contact"} "Contact"]]]]]
+        [:li [:a {:href "/contact"} "Contact"]]
+        [:li [:a {:href "/privacy"} "Privacy"]]]]]
     [:div.Footer__inner__social
      (Social)]]
    [:div.Footer__copyright
