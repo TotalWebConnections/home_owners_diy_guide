@@ -3,8 +3,12 @@
           :meta-desc "Homeowners DIY Guide Privacy - Your one stop for DIY and home care related content"}
  :page [:div.Page
          [:h1 "Privacy Policy"]
+         [:p "Last Updated: January 31st 2021"]
          [:p "Your privacy is important to us."]
          [:p "It is Homeowners DIY Guide’s policy to respect your privacy regarding any information we may collect while operating our website. Accordingly, we have developed this privacy policy in order for you to understand how we collect, use, communicate, disclose and otherwise make use of personal information. We have outlined our privacy policy below. This privacy policy discloses the privacy practices for (website address). This privacy policy applies solely to information collected by this web site."]
+
+         [:h2 "Updates"]
+         [:p "We reserve the right to update and modify this policy as we see fit. Any changes will be posted here and continued use of the site constitues acceptance of these and any future changes."]
 
          [:h2 "Site Ownership"]
          [:p "Homeowners DIY Guide is owned and operated by Total Web Connections LLC."]
