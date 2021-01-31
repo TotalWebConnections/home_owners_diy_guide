@@ -8,10 +8,10 @@
     [:div.Footer__inner__nav
      [:div.Nav__links
       [:ul
-        [:li [:a {:href "#"} "Home"]]
-        [:li [:a {:href "#"} "About"]]
-        [:li [:a {:href "#"} "Posts"]]
-        [:li [:a {:href "#"} "Contact"]]]]]
+        [:li [:a {:href "/"} "Home"]]
+        [:li [:a {:href "/about"} "About"]]
+        [:li [:a {:href "/posts"} "Posts"]]
+        [:li [:a {:href "/contact"} "Contact"]]]]]
     [:div.Footer__inner__social
      (Social)]]
    [:div.Footer__copyright
