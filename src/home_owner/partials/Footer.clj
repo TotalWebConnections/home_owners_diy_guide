@@ -17,4 +17,6 @@
      (Social)]]
    [:div.Footer__copyright
     [:p "Copyright 2020 - Total Web Connections LLC"]]
-   [:script {:src "https://kit.fontawesome.com/a85405c6c9.js" :crossorigin "anonymous"}]])
+   [:script {:src "https://kit.fontawesome.com/a85405c6c9.js" :crossorigin "anonymous"}]
+   [:script {:src "https://www.googletagmanager.com/gtag/js?id=G-JR4667E7TC"}]
+   [:script {:src "/scripts/analytics.js"}]])
