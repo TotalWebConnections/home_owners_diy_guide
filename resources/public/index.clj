@@ -1,6 +1,6 @@
 { :header {
-           :title "Index"
-           :meta-desc "Indx Page"}
+           :title "Home Owners DIY Guide"
+           :meta-desc "The best place for DIY info for home owners."}
   :page [:div.Page.Home
           [:div.Home-primary-image-wrapper
            [:a.dark {:href "landscaping-to-sell-your-home"}
