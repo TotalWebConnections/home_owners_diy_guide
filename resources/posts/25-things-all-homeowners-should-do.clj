@@ -1,6 +1,6 @@
 :header {
          :title "25 Things All Homeowners Should Do"
-         :meta-desc "A base hello World Page"
+         :meta-desc "New to owning a home? Check out our list of 25 must do tasks for all new home owners."
          :published "2021-01-01T14:08:40+01:00"
          :last-updated "January 1, 2021"}
 

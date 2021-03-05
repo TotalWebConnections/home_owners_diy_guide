@@ -1,6 +1,6 @@
 :header {
          :title "Pros and Cons Of Artifical Grass"
-         :meta-desc "A base hello World Page"
+         :meta-desc "Learn about artificial grass and how it compares to real grass."
          :published "2021-01-05T14:08:40+01:00"
          :last-updated "January 5, 2021"}
 

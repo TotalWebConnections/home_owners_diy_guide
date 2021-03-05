@@ -8,7 +8,8 @@
    :new-house {:url "new_house.jpg" :alt "New Homeowners Guide"}
    :clover-yard {:url "clover-yard.jpg" :alt "Dealing With Clover In Your Yard"}
    :furnace-technician {:url "furnace-technician.jpg" :alt "Furnace Technician"}
-   :artificial-grass {:url "artificial-grass.jpg" :alt "Artificial Grass"}})
+   :artificial-grass {:url "artificial-grass.jpg" :alt "Artificial Grass"}
+   :how-to-take-care-of-your-gutters {:url "how-to-take-care-of-your-gutters.jpg" :alt "How To Take Care Of Your Gutters"}})
 
 (defn get-image-map [key]
   ((keyword key) media))

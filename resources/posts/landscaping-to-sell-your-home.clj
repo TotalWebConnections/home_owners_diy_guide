@@ -1,6 +1,6 @@
 :header {
          :title "Landscaping To Sell Your Home"
-         :meta-desc "A base hello World Page"
+         :meta-desc "If you're planning to sell your home having proper landscaping can help. Learn how to boost curb appeal and which projects can actually help your bottom line."
          :published "2021-01-04T14:08:40+01:00"
          :last-updated "January 4, 2021"}
 

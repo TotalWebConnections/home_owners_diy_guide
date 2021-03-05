@@ -1,6 +1,6 @@
 :header {
          :title "Getting Rid Of Clover In Your Yard"
-         :meta-desc "A base hello World Page"
+         :meta-desc "Sick of seeing clover in your yard? Learn about easy ways to get rid of clover in your yard for good."
          :published "2021-01-02T14:08:40+01:00"
          :last-updated "January 2, 2021"}
 

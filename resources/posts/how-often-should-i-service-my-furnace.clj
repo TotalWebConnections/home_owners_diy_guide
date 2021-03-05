@@ -1,6 +1,6 @@
 :header {
          :title "How Often Should I Sericve My Furnace?"
-         :meta-desc "A base hello World Page"
+         :meta-desc "Getting your furnace service regularly is important to keep it in working order. Learn about when and why you should have your furnace serviced."
          :published "2021-01-03T14:08:40+01:00"
          :last-updated "January 3, 2021"}
 
