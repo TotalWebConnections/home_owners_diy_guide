@@ -9,9 +9,8 @@
    :clover-yard {:url "clover-yard.jpg" :alt "Dealing With Clover In Your Yard"}
    :furnace-technician {:url "furnace-technician.jpg" :alt "Furnace Technician"}
    :artificial-grass {:url "artificial-grass.jpg" :alt "Artificial Grass"}
-   :how-to-take-care-of-your-gutters {:url "how-to-take-care-of-your-gutters.jpg" :alt "How To Take Care Of Your Gutters"}})
+   :how-to-take-care-of-your-gutters {:url "how-to-take-care-of-your-gutters.jpg" :alt "How To Take Care Of Your Gutters"}
+   :getting-rid-of-mice {:url "getting-rid-of-mice.jpg" :alt "How To Get Rid Of Mice In Your Home"}})
 
 (defn get-image-map [key]
   ((keyword key) media))
-
-
