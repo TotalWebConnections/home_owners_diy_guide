@@ -3,7 +3,7 @@
          :meta-desc "Proper care of gutters is important to prevent long term water damage. Learning how to take care of your gutters is important for a dry home."
          :published "2021-03-05T14:06:40+01:00"
          :last-updated "March 5, 2021"}
-
+:excerpt "See How Gutter Care Protects Your Home"
 :page [:div.Post
         [:p "An often overlooked area of home care is the trusty gutters. Gutters play a crucial role in keeping your house intact, and lack of care can cause serious problems down the road. While they can be a bit of a hassle to clean and maintain, it’s well worth it for the stability of your home. Today we’ll look at the role of gutters, and easy ways homeowners can keep them in working order."]
 

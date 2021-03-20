@@ -3,7 +3,7 @@
          :meta-desc "Learn when to fertalize your lawn to have the greenest lawn and be the envy of your neighbors."
          :published "2021-03-13T8:08:40+01:00"
          :last-updated "March 13, 2021"}
-
+:excerpt "Easy To Follow Rules For When To Fertalize For Best Results"
 :page [:div.Post
         [:p "A well cared for lawn is an object of pride for many homeowners. Having a luscious, green yard is something that nearly everyone dreams of. One important step to that goal that many people neglect is fertilizing. A picture worthy yard doesn’t just appear on its own, and takes some input from the owner. Luckily, the process is pretty simple, and once you know what you’re doing you’ll be well on your way to the lawn of your dreams. We’ll also take a look at some of the most common questions and issues to give you a leg up on your neighbors."]
 

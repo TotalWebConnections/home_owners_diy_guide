@@ -3,7 +3,7 @@
          :meta-desc "If you have mulch in your yard you may be wondering if it's possible to replace mulch with grass. In this articl we answer exactly that and what goes into doing so."
          :published "2021-03-162T12:08:40+01:00"
          :last-updated "March 16, 2021"}
-
+:excerpt "See How To Replace Mulch With Grass"
 :page [:div.Post
        [:p "If you’ve got a large area of wood chips or mulch you might be wondering what’s involved with replacing it with grass. Whether you want to go with sod or start from seed, the process is similar, and what you’ll be limited by is the same. In the rest of this article we’ll look at some of the considerations when looking to replace mulch with grass and how to go about doing so."]
 

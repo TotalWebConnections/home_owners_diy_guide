@@ -14,7 +14,7 @@
     (generate-image (:primary-image page))
     [:div.Home-post-text
      [:h2 (:title (:header page))]
-     [:p  "Easy steps to maintain your home."]]]])
+     [:p  (:excerpt page)]]]])
 
 (defn generate-posts-page []
   (map (fn [page] (generate-single-post (first page) (clojure.edn/read-string  (str "{" (second page) "}")))) (stasis/slurp-directory "resources/posts" #".*\.clj$")))

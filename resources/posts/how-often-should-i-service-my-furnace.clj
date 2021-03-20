@@ -3,7 +3,7 @@
          :meta-desc "Getting your furnace service regularly is important to keep it in working order. Learn about when and why you should have your furnace serviced."
          :published "2021-01-03T14:08:40+01:00"
          :last-updated "January 3, 2021"}
-
+:excerpt "Keep Your Furnance Running Efficiently Year Round"
 :page [:div.Post
         [:p "The furnace is one of the most critical parts of a home, and one that every homeowner dreads breaking down. Nothing is worse than a furnace not working in the dead of winter, which if not fixed quickly can lead to other serious problems like frozen pipes. Unfortunately, as many homeowners have found out, an emergency furnace fix is not cheap, and with no other options it can be a huge financial burden."]
         [:p "As most homeowners know, one of the best ways to avoid surprise furnace failures is to have it serviced and inspected regularly. These service visits can not only help prevent or catch issues, but can also extend the life of your furnace. Today, we’ll look at how often you should get your furnace service, as well as what to expect from a HVAC technician."]

@@ -3,7 +3,7 @@
          :meta-desc "Sick of seeing clover in your yard? Learn about easy ways to get rid of clover in your yard for good."
          :published "2021-01-02T14:08:40+01:00"
          :last-updated "January 2, 2021"}
-
+:excerpt "Quick Methods To Remove Unsightly Clover"
 :page [:div.Post
         [:p "One of the most common and annoying lawn weeds is the clover. These little weeds can spring up quickly and be very unsightly for your lawn. If you’ve dealt with them before, you’ll understand just how difficult it can be to truly get rid of them; they almost seem to spring up overnight. Let’s take a look at this pesky weed, and what can be done to get rid of them and prevent them from coming back. "]
 

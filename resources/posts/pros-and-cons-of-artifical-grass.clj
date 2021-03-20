@@ -3,7 +3,7 @@
          :meta-desc "Learn about artificial grass and how it compares to real grass."
          :published "2021-01-05T14:08:40+01:00"
          :last-updated "January 5, 2021"}
-
+:excerpt "Learn Why You Might Want To Consider Artifical Grass For Your Yard"
 :page [:div.Post
        [:p "With advancements in technology and environmental consciousness artificial grass has become a very attractive option. Many homeowners are choosing to substitute some or all of their green space with artificial grass. That said, there are many others who dislike the artificial grass trend and would never dream of replacing their lawn with “fake grass”. Today, we’ll look at both options, and compare which will fit best for you."]
 

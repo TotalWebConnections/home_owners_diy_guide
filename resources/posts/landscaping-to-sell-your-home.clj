@@ -3,7 +3,7 @@
          :meta-desc "If you're planning to sell your home having proper landscaping can help. Learn how to boost curb appeal and which projects can actually help your bottom line."
          :published "2021-01-04T14:08:40+01:00"
          :last-updated "January 4, 2021"}
-
+:excerpt "Easy Fixes To Improve Your Home's Value"
 :page [:div.Post
        [:p "When it comes time to sell your home there are a lot of things to do that can make it more appealing to potential buyers. Everything from fresh paint to new appliances can help, but what many sellers neglect is the outward appearance of the home. The truth is there are numerous outdoor things you can do to help sell your home quicker. Today, we’ll look at some landscaping projects you can do to help sell your home quicker."]
        [:p "One note, while landscaping can certainly help make your home more appealing to buyers, it is generally a lower impact method of actually improving your home's value. Landscaping and exterior work should be one of the last things you focus on if you’re looking to rapidly increase your home’s value. That said, a nice looking exterior is more likely to entice buyers to visit it in the first place, and that can be a big win in itself. Additionally, a yard that needs too much work is a  big turn off for a lot of buyers, so in most cases you’ll want to balance your landscaping work with home improvements."]

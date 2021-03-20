@@ -3,7 +3,7 @@
          :meta-desc "Sick of seeing clover in your yard? Learn about easy ways to get rid of clover in your yard for good."
          :published "2021-03-09T6:08:40+01:00"
          :last-updated "March 9, 2021"}
-
+:excerpt "Pest Control Made Easy"
 :page [:div.Post
        [:p "When you see a mouse in your house, it can be quite a shock, and it’s certainly something no homeowner wants to see. Mice are dirty, can spread disease and can ruin wiring and fixtures, so it’s important to get rid of them. Luckily, dealing with mice is something many homeowners have successfully done and is not too difficult. Today, we’ll look at what you can do to prevent mice from getting into your home, and how to get rid of those that are already there."]
 

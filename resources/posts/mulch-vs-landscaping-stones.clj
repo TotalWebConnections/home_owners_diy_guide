@@ -3,7 +3,7 @@
          :meta-desc "Considering mulch or stone for your next project? Read this first to learn key differences between the two."
          :published "2021-03-19T14:08:40+01:00"
          :last-updated "March 19, 2021"}
-
+:excerpt "See The Differnces In These Common Yard Items"
 :page [:div.Post
        [:p "When looking to landscape your property you might be considering mulch or landscaping stones. Both of these are common options for garden beds as well as for decoration, and many homeowners have used both to great effect. Which one will work best for you depends on several factors, and today we’ll look at the pros and cons for each. By the end, you should have the information you need to make an informed decision for your goals and property."]
 
