@@ -13,7 +13,8 @@
    :getting-rid-of-mice {:url "getting-rid-of-mice.jpg" :alt "How To Get Rid Of Mice In Your Home"}
    :when-to-fertalize-your-lawn {:url "when-to-fertalize-your-lawn.jpg" :alt "When To Fertalize Your Lawn"}
    :replace-mulch-with-grass {:url "replace-mulch-with-grass.jpg" :alt "How to replace mulch with grass"}
-   :mulch-vs-stone {:url "mulch-vs-stone.jpg" :alt "Mulch Vs Stone"}})
+   :mulch-vs-stone {:url "mulch-vs-stone.jpg" :alt "Mulch Vs Stone"}
+   :environmentally-friendly-lawn-care {:url "environmentally-friendly-lawn-care.jpg" :alt "environmentally friendly lawn care tips"}})
 
 (defn get-image-map [key]
   ((keyword key) media))
