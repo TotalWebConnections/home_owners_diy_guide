@@ -14,7 +14,8 @@
    :when-to-fertalize-your-lawn {:url "when-to-fertalize-your-lawn.jpg" :alt "When To Fertalize Your Lawn"}
    :replace-mulch-with-grass {:url "replace-mulch-with-grass.jpg" :alt "How to replace mulch with grass"}
    :mulch-vs-stone {:url "mulch-vs-stone.jpg" :alt "Mulch Vs Stone"}
-   :environmentally-friendly-lawn-care {:url "environmentally-friendly-lawn-care.jpg" :alt "environmentally friendly lawn care tips"}})
+   :environmentally-friendly-lawn-care {:url "environmentally-friendly-lawn-care.jpg" :alt "environmentally friendly lawn care tips"}
+   :best-time-to-mow-lawn {:url "best-time-to-mow-lawn.jpg" :alt "Best Time To Mow Lawn"}})
 
 (defn get-image-map [key]
   ((keyword key) media))
