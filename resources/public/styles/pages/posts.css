@@ -19,3 +19,11 @@
   padding-bottom: 25px;
   border-bottom: 1px solid var(--main-color);
 }
+
+.Post a {
+  color: var(--main-color);
+}
+
+.Post a:hover {
+  color: black;
+}

@@ -15,7 +15,8 @@
    :replace-mulch-with-grass {:url "replace-mulch-with-grass.jpg" :alt "How to replace mulch with grass"}
    :mulch-vs-stone {:url "mulch-vs-stone.jpg" :alt "Mulch Vs Stone"}
    :environmentally-friendly-lawn-care {:url "environmentally-friendly-lawn-care.jpg" :alt "environmentally friendly lawn care tips"}
-   :best-time-to-mow-lawn {:url "best-time-to-mow-lawn.jpg" :alt "Best Time To Mow Lawn"}})
+   :best-time-to-mow-lawn {:url "best-time-to-mow-lawn.jpg" :alt "Best Time To Mow Lawn"}
+   :how-long-does-it-take-to-replace-a-roof {:url "how-long-does-it-take-to-replace-a-roof.jpg" :alt "How Long Does It Take To Replce a Roof"}})
 
 (defn get-image-map [key]
   ((keyword key) media))
