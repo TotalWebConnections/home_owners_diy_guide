@@ -27,3 +27,7 @@
 .Post a:hover {
   color: black;
 }
+
+.Post p strong {
+  font-weight: 600;
+}
