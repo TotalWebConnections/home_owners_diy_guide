@@ -4,7 +4,7 @@
  :page [:div.Page
          [:h1 "Who We Are"]
          ; [:img {:width "200px" :src "/images/coming_soon.jpg"}]
-         [:p "DIY Homeowners Guide is a website dedicated to brining you the best in home care content
+         [:p "DIY Homeowners Guide is a website dedicated to bringing you the best in home care content.
               We are passoniate about the upkeep of our homes, and passoniate about doing it ourselves.
               It's our goal to educated homeowners on common concerns, and help people be more self reliant
               in taking care of their home."]
