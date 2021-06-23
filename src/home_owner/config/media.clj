@@ -17,7 +17,8 @@
    :environmentally-friendly-lawn-care {:url "environmentally-friendly-lawn-care.jpg" :alt "environmentally friendly lawn care tips"}
    :best-time-to-mow-lawn {:url "best-time-to-mow-lawn.jpg" :alt "Best Time To Mow Lawn"}
    :how-long-does-it-take-to-replace-a-roof {:url "how-long-does-it-take-to-replace-a-roof.jpg" :alt "How Long Does It Take To Replce a Roof"}
-   :gutter-guards {:url "gutter-guards.jpg" :alt "Gutter Guard Options"}})
+   :gutter-guards {:url "gutter-guards.jpg" :alt "Gutter Guard Options"}
+   :hot-water-heater {:url "hot-water-heater.jpg" :alt "What Size Hot Water Heater Should You Choose?"}})
 
 (defn get-image-map [key]
   ((keyword key) media))
